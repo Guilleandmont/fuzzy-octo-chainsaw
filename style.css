@@ -1,0 +1,33 @@
+body {
+    width: 98vw;
+    height: 80vh;
+    background-image: url(./341800-PADMX3-800.jpg);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 10vw;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+h1 {
+    font-size: 3rem;
+    color: rgb(161, 20, 107);
+}
+
+p {
+    color: rgb(161, 20, 107);
+    font-weight: 600;
+}
+
+img {
+    width: 100%;
+    max-height: 50%;
+    position: absolute;
+    bottom: 0;
+}
+
